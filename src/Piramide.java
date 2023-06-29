@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public abstract class Piramide extends Figura {
+public abstract class Piramide extends Triangulo {
     double ladop;
     double altura;
     double alturat;
