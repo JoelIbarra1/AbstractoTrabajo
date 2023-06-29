@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public abstract class Esfera extends Figura {
+public abstract class Esfera extends Circulo {
     double radioe;
     public void IngresaPuntos(){
         Scanner sc = new Scanner(System.in);
