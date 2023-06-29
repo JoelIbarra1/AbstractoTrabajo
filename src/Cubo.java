@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public abstract class Cubo extends Figura {
+public abstract class Cubo extends Cuadrado {
     double ladoc;
     double profundiad;
 
