@@ -141,8 +141,8 @@ public class Main {
                 esfera.IngresaPuntos();
                 double areaes = esfera.CalcularArea();
                 double volumenes = esfera.CalcularVolumen();
-                System.out.println("el area superficial de la piramide es " +areaes);
-                System.out.println("el volumen de la piramide es " +volumenes);
+                System.out.println("el area superficial de la esfera es " +areaes);
+                System.out.println("el volumen de la esfera es " +volumenes);
                 break;
             default:
                 System.out.println("Opción inválida. Seleccione un número del 1 al 6.");
